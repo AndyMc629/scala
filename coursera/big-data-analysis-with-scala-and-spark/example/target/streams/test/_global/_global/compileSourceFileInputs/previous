@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/home/andrew/dev/GitHub/scala/coursera/big-data-analysis-with-scala-and-spark/example/src/test/scala/example/ListsSuite.scala","c10d8fd82fd368427bd8d958c57e5d03c6f59cc1"]],"lastModifiedTimes":[]}}]

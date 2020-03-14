@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/andrew/dev/GitHub/scala/coursera/big-data-analysis-with-scala-and-spark/example/src/main/scala/Main.scala:2:11: not found: value Lists[0m
+[0m[[0m[31merror[0m] [0m[0m  println(Lists.max(List(1,3,2)))[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
