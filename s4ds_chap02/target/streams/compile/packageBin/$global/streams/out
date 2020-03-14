@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/s4ds_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegressionDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/LogisticRegressionDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegressionDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/LogisticRegressionDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/LogisticRegression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$fromList$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$fromList$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$target$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$target$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HWData$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/HWData$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogisticRegression$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/andrew/dev/GitHub/scala/s4ds_chap02/target/scala-2.11/classes/LogisticRegression$$anon$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
