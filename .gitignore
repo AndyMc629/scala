@@ -1,8 +1,10 @@
 *.class
 *.log
 *.data
+*.dat
 *.sgm
 *.txt
+*.csv
 
 # (may want to keep parts of 'project')
 bin/
